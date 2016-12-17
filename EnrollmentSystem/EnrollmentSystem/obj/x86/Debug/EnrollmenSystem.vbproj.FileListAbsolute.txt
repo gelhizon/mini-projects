@@ -1,0 +1,12 @@
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\bin\Debug\Scheme.mdb
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\bin\Debug\EnrollmenSystem.exe.config
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\bin\Debug\EnrollmenSystem.exe
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\bin\Debug\EnrollmenSystem.pdb
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\bin\Debug\EnrollmenSystem.xml
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.LoginForm1.resources
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.Resources.resources
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.vbproj.GenerateResource.Cache
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.exe
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.xml
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.pdb
+C:\Users\HL\AppData\Local\Temporary Projects\EnrollmenSystem\obj\x86\Debug\EnrollmenSystem.Form1.resources

@@ -1,0 +1,29 @@
+# Project: Linked List (insertion deletion)
+# Makefile created by Dev-C++ 5.3.0.1
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o $(RES)
+LINKOBJ  = main.o $(RES)
+LIBS     = -L"D:/Angel/Dev-Cpp/MinGW32/lib" -static-libstdc++ -static-libgcc
+INCS     = -I"D:/Angel/Dev-Cpp/MinGW32/include"
+CXXINCS  = -I"D:/Angel/Dev-Cpp/MinGW32/include"
+BIN      = "Linked List (insertion deletion).exe"
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before "Linked List (insertion deletion).exe" all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "Linked List (insertion deletion).exe" $(LIBS)
+
+main.o: main.c
+	$(CC) -c main.c -o main.o $(CFLAGS)

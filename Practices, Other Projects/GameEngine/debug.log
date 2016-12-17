@@ -1,0 +1,1244 @@
+13fe4fddaed	ContentPipeline :> Loading [BG_TEXTURE_C]...
+
+13fe4fddb2c	GameLevel :> Instantiating com.wyvernzora.centipede.states.GameLevel...
+
+13fe4fddb4b	CompositeAsteroidComponent :> Instantiating com.wyvernzora.centipede.graphics.CompositeAsteroidComponent
+
+13fe4fddb5b	CompositeCentipedeComponent :> Instantiating com.wyvernzora.centipede.graphics.CompositeCentipedeComponent...
+
+13fe4fddb5b	CompositeProjectileComponent :> Instantiating com.wyvernzora.centipede.graphics.CompositeProjectileComponent...
+
+13fe4fddb6a	ContentPipeline :> Loading [SHIP_S_1]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_S_2]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_L_1]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_L_2]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_R_1]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_R_2]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_0]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_1]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_2]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_3]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_4]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_5]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_6]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_7]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_8]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_9]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_A]...
+
+13fe4fddb7a	ContentPipeline :> Loading [SHIP_E_B]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_E_C]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_E_D]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_E_E]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_1]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_2]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_3]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_4]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_5]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_6]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_7]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_8]...
+
+13fe4fddb8a	ContentPipeline :> Loading [SHIP_I_9]...
+
+13fe4fddc45	ContentPipeline :> Loading [SB_TEXTURE]...
+
+13fe4fddc45	ContentPipeline :> Loading [SB_GRIP]...
+
+13fe4fddc45	ContentPipeline :> Loading Font [GLOBAL_FONT]
+
+13fe4fddd4f	ContentPipeline :> Loading [SHIP_S_0]...
+
+13fe4fddd6e	ContentPipeline :> Loading [WPUP_TITLE]...
+
+13fe4fddd6e	ContentPipeline :> Loading [WPUP_MISSILE]...
+
+13fe4fddd6e	ContentPipeline :> Loaded from buffer [WPUP_MISSILE]
+
+13fe4fddd6e	ContentPipeline :> Loaded from buffer [WPUP_MISSILE]
+
+13fe4fddd6e	ContentPipeline :> Loading [WPUP_LASER]...
+
+13fe4fddd6e	ContentPipeline :> Loaded from buffer [WPUP_LASER]
+
+13fe4fddd6e	ContentPipeline :> Loaded from buffer [WPUP_LASER]
+
+13fe4fddd7e	ContentPipeline :> Loading [WPUP_CHAINEXPL]...
+
+13fe4fddd8d	ContentPipeline :> Loading [WPUP_MEGALASER]...
+
+13fe4fddd8d	ContentPipeline :> Loading [MENU_TITLE]...
+
+13fe4fddd9d	ContentPipeline :> Loading [MENU_ITEM]...
+
+13fe4fdddad	ContentPipeline :> Loaded from buffer [MENU_ITEM]
+
+13fe4fdddad	ContentPipeline :> Loaded from buffer [MENU_ITEM]
+
+13fe4fdddbc	ContentPipeline :> Loaded from buffer [MENU_ITEM]
+
+13fe4fdde2a	ContentPipeline :> Loading [TITLE]...
+
+13fe4fdf4d8	CentipedeGame :> Game Difficulty Changed [Difficulty = NORMAL]
+
+13fe4fdf4ea	CentipedeGame :> Game Start!
+
+13fe4fdf4ea	CentipedeGame :> Game Reset!
+
+13fe4fdf52d	ContentPipeline :> Loading [ASTR_0]...
+
+13fe4fdf52d	ContentPipeline :> Loading [ASTR_1]...
+
+13fe4fdf52d	ContentPipeline :> Loading [ASTR_2]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_3]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_4]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_5]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_E_0]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_E_1]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_E_2]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_E_3]...
+
+13fe4fdf53d	ContentPipeline :> Loading [ASTR_E_4]...
+
+13fe4fdf53d	CompositeAsteroidComponent :> Asteroid Instantiated @ (14, 19) [HP = 2]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf53d	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf54e	CompositeAsteroidComponent :> Asteroid Instantiated @ (18, 9) [HP = 2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf54e	CompositeAsteroidComponent :> Asteroid Instantiated @ (3, 4) [HP = 2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf54e	CompositeAsteroidComponent :> Asteroid Instantiated @ (1, 22) [HP = 2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf54e	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf55e	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf55f	CompositeAsteroidComponent :> Asteroid Instantiated @ (20, 17) [HP = 2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf55f	CompositeAsteroidComponent :> Asteroid Instantiated @ (16, 3) [HP = 2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf55f	CompositeAsteroidComponent :> Asteroid Instantiated @ (27, 12) [HP = 2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf55f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf56e	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf56f	CompositeAsteroidComponent :> Asteroid Instantiated @ (27, 19) [HP = 2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf56f	CompositeAsteroidComponent :> Asteroid Instantiated @ (2, 3) [HP = 2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf56f	CompositeAsteroidComponent :> Asteroid Instantiated @ (25, 11) [HP = 2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf56f	CompositeAsteroidComponent :> Asteroid Instantiated @ (13, 9) [HP = 2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf56f	CompositeAsteroidComponent :> Asteroid Instantiated @ (16, 15) [HP = 2]
+
+13fe4fdf56f	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf57f	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf57f	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf57f	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf57f	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf580	CompositeAsteroidComponent :> Asteroid Instantiated @ (15, 8) [HP = 2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf580	CompositeAsteroidComponent :> Asteroid Instantiated @ (15, 15) [HP = 2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf580	CompositeAsteroidComponent :> Asteroid Instantiated @ (18, 20) [HP = 2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf580	CompositeAsteroidComponent :> Asteroid Instantiated @ (4, 6) [HP = 2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf580	CompositeAsteroidComponent :> Asteroid Instantiated @ (1, 5) [HP = 2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf580	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (13, 12) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (8, 7) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (7, 23) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (3, 6) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (24, 13) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (19, 23) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf591	CompositeAsteroidComponent :> Asteroid Instantiated @ (18, 22) [HP = 2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf591	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a0	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a0	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a0	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a0	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a0	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a0	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (7, 18) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (14, 22) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (6, 20) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (28, 16) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (29, 5) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (22, 4) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (9, 19) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (20, 13) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5a1	CompositeAsteroidComponent :> Asteroid Instantiated @ (11, 15) [HP = 2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_0]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_1]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_2]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_3]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_4]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_5]
+
+13fe4fdf5a1	ContentPipeline :> Loaded from buffer [ASTR_E_0]
+
+13fe4fdf5b1	ContentPipeline :> Loaded from buffer [ASTR_E_1]
+
+13fe4fdf5b1	ContentPipeline :> Loaded from buffer [ASTR_E_2]
+
+13fe4fdf5b1	ContentPipeline :> Loaded from buffer [ASTR_E_3]
+
+13fe4fdf5b1	ContentPipeline :> Loaded from buffer [ASTR_E_4]
+
+13fe4fdf5b1	CompositeAsteroidComponent :> Asteroid Instantiated @ (21, 22) [HP = 2]
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_N_N]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_N_S]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_N_W]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_N_E]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_0]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_1]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_2]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_3]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_4]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_5]...
+
+13fe4fdf5c3	ContentPipeline :> Loading [CENT_E_6]...
+
+13fe4fdf5c3	CompositeCentipedeComponent :> Centipede Instantiated @ (9, 0)
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5c3	CompositeCentipedeComponent :> Centipede Instantiated @ (8, 0)
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5c3	CompositeCentipedeComponent :> Centipede Instantiated @ (7, 0)
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5c3	CompositeCentipedeComponent :> Centipede Instantiated @ (6, 0)
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5c3	CompositeCentipedeComponent :> Centipede Instantiated @ (5, 0)
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5c3	CompositeCentipedeComponent :> Centipede Instantiated @ (4, 0)
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5c3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5d2	CompositeCentipedeComponent :> Centipede Instantiated @ (3, 0)
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5d2	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5d3	CompositeCentipedeComponent :> Centipede Instantiated @ (2, 0)
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5d3	CompositeCentipedeComponent :> Centipede Instantiated @ (1, 0)
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_N]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_S]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_W]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_N_E]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_0]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_1]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_2]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_3]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_4]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_5]
+
+13fe4fdf5d3	ContentPipeline :> Loaded from buffer [CENT_E_6]
+
+13fe4fdf5d3	CompositeCentipedeComponent :> Centipede Instantiated @ (0, 0)
+
+13fe4fdf6ad	SpaceshipSprite :> Mouse Leave Lock Range
+
+13fe4fdfa48	SpaceshipSprite :> Mouse Lock ON
+
+13fe4fe09f2	ContentPipeline :> Loading [BULLET_A_0]...
+
+13fe4fe09f2	ContentPipeline :> Loading [BULLET_B_0]...
+
+13fe4fe09f2	ContentPipeline :> Loading [BULLET_B_1]...
+
+13fe4fe0c33	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe0c33	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe0c33	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe0d5c	CompositeAsteroidComponent :> Asteroid Recycled @ (9, 19)
+
+13fe4fe10bd	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe10bd	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe10bd	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe113d	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe113d	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe113d	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe11dc	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe11dc	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe11dc	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe12f8	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe12f9	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe12f9	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe137d	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe137d	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe137d	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe1670	CentipedeComponent :> Centipede Collision confirmed @ (17, 1)!
+
+13fe4fe177b	CompositeCentipedeComponent :> Centipede Recycled @ (17, 1)
+
+13fe4fe186c	ContentPipeline :> Loaded from buffer [BULLET_A_0]
+
+13fe4fe186d	ContentPipeline :> Loaded from buffer [BULLET_B_0]
+
+13fe4fe186d	ContentPipeline :> Loaded from buffer [BULLET_B_1]
+
+13fe4fe1890	CompositeAsteroidComponent :> Asteroid Recycled @ (17, 1)
+
+13fe4fe2c31	CompositeAsteroidComponent :> Asteroid Recycled @ (6, 20)
+
+13fe4fe2ce2	CompositeAsteroidComponent :> Asteroid Recycled @ (8, 7)
+
+13fe4fe2dea	CompositeAsteroidComponent :> Asteroid Recycled @ (14, 22)
+
+13fe4fe2e6e	CompositeAsteroidComponent :> Asteroid Recycled @ (13, 12)
+
+13fe4fe2f79	CompositeAsteroidComponent :> Asteroid Recycled @ (14, 19)
+
+DrawOutlinedString,540436769,7823
+DrawOutlinedStringRotated,3288884824,7820
+DrawOutlinedStringCentered,2654153648,53860
+

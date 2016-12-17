@@ -1,0 +1,34 @@
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\bin\Debug\Case Study.exe
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\bin\Debug\Case Study.pdb
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\bin\Debug\Case Study.xml
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\Case Study.exe
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\Case Study.xml
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\obj\x86\Debug\Case Study.pdb
+C:\Users\t\documents\visual studio 2010\Projects\Case Study\Case Study\bin\Debug\Case Study.exe.config
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Case Study.exe.config
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\Case Study.exe
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\Case Study.xml
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\Case Study.pdb
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Case Study.exe
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Case Study.pdb
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Case Study.xml
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\Case Study.vbproj.GenerateResource.Cache
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Database1DataSet.Designer.vb
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Database1DataSet.xsc
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Database1DataSet.xsd
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Database1DataSet.xss
+C:\Users\H8\Desktop\Case Study\Case Study\bin\Debug\Database1.accdb
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\H8\Desktop\Case Study\Case Study\obj\x86\Debug\WindowsApplication1.Form6.resources

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JPCS-TSUChapter2.0
+</name>
+</assembly>
+<members>
+<member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources._10253391_10201562547897171_632775578_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources.ccs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources.jpcs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources.jpcs3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:JPCS___TSU_Chapter_2._0.My.Resources.Resources.tsu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet.ChapterMembersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet.ChapterMembersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet.ChapterMembersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.ChapterMembersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.UpdateAll(JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:JPCS___TSU_Chapter_2._0._jpcs___tsu_chapterDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

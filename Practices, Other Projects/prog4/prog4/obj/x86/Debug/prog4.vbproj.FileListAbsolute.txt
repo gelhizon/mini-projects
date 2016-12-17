@@ -1,0 +1,58 @@
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\bin\Debug\prog4.exe.config
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\bin\Debug\prog4.exe
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\bin\Debug\prog4.pdb
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\bin\Debug\prog4.xml
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form1.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form2.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form3.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form4.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form5.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form6.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form7.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form8.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Form9.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.Resources.resources
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.vbproj.GenerateResource.Cache
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.exe
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.xml
+C:\Users\Patrick Badillos\Downloads\prog4\prog4\obj\x86\Debug\prog4.pdb
+F:\patbadillos\prog4\prog4\bin\Debug\prog4.exe.config
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.exe
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.xml
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.pdb
+F:\patbadillos\prog4\prog4\bin\Debug\prog4.exe
+F:\patbadillos\prog4\prog4\bin\Debug\prog4.pdb
+F:\patbadillos\prog4\prog4\bin\Debug\prog4.xml
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form1.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form2.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form3.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form4.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form5.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form6.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form7.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form8.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Form9.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.Resources.resources
+F:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.vbproj.GenerateResource.Cache
+G:\patbadillos\prog4\prog4\bin\Debug\prog4.exe.config
+G:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.xml
+G:\patbadillos\prog4\prog4\obj\x86\Debug\prog4.pdb
+C:\Users\H8\Desktop\prog4\prog4\bin\Debug\prog4.exe.config
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.xml
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.pdb
+C:\Users\H8\Desktop\prog4\prog4\bin\Debug\prog4.exe
+C:\Users\H8\Desktop\prog4\prog4\bin\Debug\prog4.pdb
+C:\Users\H8\Desktop\prog4\prog4\bin\Debug\prog4.xml
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form1.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form2.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form3.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form4.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form5.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form6.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form7.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form8.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Form9.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Resources.resources
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.vbproj.GenerateResource.Cache
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.exe
+C:\Users\H8\Desktop\prog4\prog4\obj\x86\Debug\prog4.Dialog1.resources

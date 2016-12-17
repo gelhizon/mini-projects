@@ -1,0 +1,14 @@
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\bin\Debug\Scheme.mdb
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.xml
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmenSystem.EnrollmentForm.resources
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmenSystem.Dashboard.resources
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmenSystem.LoginForm.resources
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmenSystem.Resources.resources
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmentSystem.vbproj.GenerateResource.Cache
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmentSystem.exe
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmentSystem.xml
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmentSystem.pdb
+C:\Users\HL\documents\visual studio 2010\Projects\EnrollmentSystem\EnrollmentSystem\obj\x86\Debug\EnrollmenSystem.AdminRegister.resources

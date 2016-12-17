@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Junior Philippine Computer Society 2.0", "Junior Philippine Computer Society 2.0\Junior Philippine Computer Society 2.0.vbproj", "{06DF6ED0-3D17-4F50-8807-27991533DD73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DF6ED0-3D17-4F50-8807-27991533DD73}.Debug|x86.ActiveCfg = Debug|x86
+		{06DF6ED0-3D17-4F50-8807-27991533DD73}.Debug|x86.Build.0 = Debug|x86
+		{06DF6ED0-3D17-4F50-8807-27991533DD73}.Release|x86.ActiveCfg = Release|x86
+		{06DF6ED0-3D17-4F50-8807-27991533DD73}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

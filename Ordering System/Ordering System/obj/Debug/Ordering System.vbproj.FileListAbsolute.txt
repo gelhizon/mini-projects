@@ -1,0 +1,47 @@
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.exe.config
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.exe
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.pdb
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\bin\Debug\Ordering System.xml
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.AdminForm.resources
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.Resources.resources
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering System.vbproj.GenerateResource.Cache
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering System.exe
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering System.xml
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering System.pdb
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\bin\Debug\OrderingSystem.mdf
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\bin\Debug\OrderingSystem_log.ldf
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.UserForm.resources
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.LoginForm1.resources
+C:\Users\HL\Documents\Visual Studio 2013\Projects\Ordering System\Ordering System\obj\Debug\Ordering_System.MyOrders.resources
+H:\Ordering System\Ordering System\bin\Debug\Ordering System.exe.config
+H:\Ordering System\Ordering System\obj\Debug\Ordering System.exe
+H:\Ordering System\Ordering System\obj\Debug\Ordering System.xml
+H:\Ordering System\Ordering System\obj\Debug\Ordering System.pdb
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.exe
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\System.Data.SQLite.dll
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\OrderingSystem.mdf
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\OrderingSystem_log.ldf
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.exe.config
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.exe.manifest
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.application
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\EntityFramework.dll
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\EntityFramework.xml
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\System.Data.SQLite.xml
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.AdminForm.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.MyOrders.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.LoginForm1.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.Resources.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering_System.UserForm.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.vbproj.GenerateResource.Cache
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.exe.manifest
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.application
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.exe
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.xml
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.pdb
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Debug\Ordering System.vbprojResolveAssemblyReference.cache
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.pdb
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Debug\Ordering System.xml

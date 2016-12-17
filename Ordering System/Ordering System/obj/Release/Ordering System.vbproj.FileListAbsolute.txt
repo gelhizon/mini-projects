@@ -1,0 +1,8 @@
+C:\Users\HL\Desktop\Ordering System\Ordering System\bin\Release\Ordering System.exe.config
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering_System.AdminForm.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering_System.MyOrders.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering_System.LoginForm1.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering_System.Resources.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering_System.UserForm.resources
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering System.vbproj.GenerateResource.Cache
+C:\Users\HL\Desktop\Ordering System\Ordering System\obj\Release\Ordering System.vbprojResolveAssemblyReference.cache
