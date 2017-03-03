@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+	<div id="root">
+		<p v-model="name" v-text="name" :class="test"></p>
+		<input v-model="name">
+
+
+		<ul>
+			<li v-for="a in list" v-text="a"></li>
+		</ul>
+
+		<test message="testprop">
+			This is my component			
+		</test>
+
+		<p>{{ add }}</p>
+
+		<button @click="clickMe">Click Me!</button>
+	</div>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.10/vue.min.js"></script>
+
+	<script>
+		Vue.component('test', {
+			props: ['message'],
+
+			template: '<h1><slot></slot> {{ message }}</h1>'
+		});
+
+		new Vue({
+			el: '#root',
+
+			data: {
+				name: 'Gel',
+				list: ['a', 'b', 'c'],
+				test: 'test'
+			},
+
+			computed: {
+				add: function() {
+					return 2 + 2;
+				}
+			},
+
+			methods: {
+				clickMe: function() {
+					alert('clicked');
+				}
+			},
+
+		})
+	</script>
+
+</body>
+</html>
