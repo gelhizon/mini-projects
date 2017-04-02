@@ -1,3 +1,2 @@
-# Projects / Legacy / Pasttime
-
+# Projects / Thesis / Legacy /
 Nah don't mind this repository. :)
